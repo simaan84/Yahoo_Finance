@@ -4,5 +4,5 @@ This is a user freindly app that allows users to navigate through different stoc
 The app can be ran locally using the following R commands:
 ```R
 library(shiny)
-runGitHub( "Yahoo", "simaan84") 
+runGitHub("Yahoo","simaan84") 
 ```
